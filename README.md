@@ -2,7 +2,7 @@ Prácticas de Criptografía
 
 Agosto Diciembre 2019
 
-Desarrolladas en leunguaje Python a excepción de donde se indique otro lenguaje
+Desarrolladas en lenguaje Python a excepción de donde se indique otro lenguaje
 
 <B>Práctica 0</B>
 
